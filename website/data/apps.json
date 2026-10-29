@@ -1588,5 +1588,24 @@
     "icon": "https://github.com/usebruno.png?size=128",
     "featured": false,
     "sortOrder": 86
+  },
+  {
+    "id": "layoutkeeper",
+    "name": "LayoutKeeper",
+    "summary": "插拔外接屏后自动恢复跨桌面与多显示器的窗口布局，并可让外接屏亮度跟随内建屏幕，按 USB-C 口切换排列，提供四级防休眠 / 合盖模式。",
+    "recommendation": "换显示器时，窗口回到原来的位置。",
+    "category": "menu",
+    "tags": ["外接显示器", "窗口布局", "菜单栏", "防休眠"],
+    "homepage": "https://github.com/tumingke0/LayoutKeeper",
+    "github": "https://github.com/tumingke0/LayoutKeeper",
+    "download": "https://github.com/tumingke0/LayoutKeeper/releases",
+    "license": "GPL-3.0",
+    "status": { "level": "verified" },
+    "compatibility": "macOS 14 及以上 · Apple Silicon 与 Intel（完整功能见项目说明）",
+    "permissions": "需要「辅助功能」权限以读取与恢复窗口位置。不需要屏幕录制或输入监控。",
+    "permissionKey": "accessibility",
+    "icon": "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/icon.png",
+    "featured": false,
+    "sortOrder": 87
   }
 ]
